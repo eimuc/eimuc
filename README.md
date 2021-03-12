@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Eimantas
-- 👀 I’m interested in ...
+- 👀 I’m interested in internship or junior position
 - 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on ...
 - 📫 https://eimantas-andrejevas.lt
 
 <!---
